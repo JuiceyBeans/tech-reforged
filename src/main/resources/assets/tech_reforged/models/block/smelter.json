@@ -1,0 +1,18 @@
+{
+  "parent": "tech_reforged:custom/reforgedsmelter",
+  "textures": {
+    "all": "tech_reforged:blocks/smelterframe",
+    "particle": "tech_reforged:blocks/smelterframe",
+    "1": "tech_reforged:blocks/base",
+    "2": "tech_reforged:blocks/smelter1",
+    "3": "tech_reforged:blocks/smelter2",
+    "4": "tech_reforged:blocks/smelter3",
+    "5": "tech_reforged:blocks/smelter4",
+    "6": "tech_reforged:blocks/smelter5",
+    "7": "tech_reforged:blocks/smelter6",
+    "8": "tech_reforged:blocks/smelter7",
+    "missing": "tech_reforged:blocks/smelter8",
+    "9": "tech_reforged:blocks/smelter9",
+    "10": "tech_reforged:blocks/smelterframe"
+  }
+}

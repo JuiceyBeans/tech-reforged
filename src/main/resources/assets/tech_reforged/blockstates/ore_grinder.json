@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_reforged:block/ore_grinder"
+    },
+    "facing=east": {
+      "model": "tech_reforged:block/ore_grinder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_reforged:block/ore_grinder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_reforged:block/ore_grinder",
+      "y": 270
+    }
+  }
+}

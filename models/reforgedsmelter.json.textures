@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "smelter1",
+        "12": "smelter2",
+        "13": "smelter3",
+        "14": "smelter4",
+        "15": "smelter5",
+        "16": "smelter6",
+        "17": "smelter7",
+        "18": "smelter8",
+        "19": "smelter9",
+        "20": "smelterframe"
+      },
+      "name": "default"
+    }
+  }
+}

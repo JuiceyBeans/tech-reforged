@@ -1,0 +1,12 @@
+{
+  "group": "tech_reforged",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "tech_reforged:crushed_iron"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

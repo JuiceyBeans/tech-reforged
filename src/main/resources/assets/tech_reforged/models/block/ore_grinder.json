@@ -1,0 +1,9 @@
+{
+  "parent": "tech_reforged:custom/oregrinder",
+  "textures": {
+    "all": "tech_reforged:blocks/bricks",
+    "particle": "tech_reforged:blocks/bricks",
+    "0": "tech_reforged:blocks/base",
+    "1": "tech_reforged:blocks/bricks"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CrushedIron",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crushed_iron"
+    },
+    {
+      "name": "IronCrushedSmelt",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_crushed_smelt"
+    },
+    {
+      "name": "OreGrinder",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_grinder"
+    },
+    {
+      "name": "TechReforged",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tech_reforged"
+    },
+    {
+      "name": "Smelter",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelter"
+    },
+    {
+      "name": "OreCrushed",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_crushed"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "CrushableOres",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crushable_ores"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.tech_reforged.ore_grinder": "Ore Grinder",
+      "item.tech_reforged.crushed_iron": "Crushed Iron",
+      "block.tech_reforged.smelter": "Smelter",
+      "itemGroup.tabtech_reforged": "Tech Reforged"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tech_reforged",
+    "modName": "Tech Reforged",
+    "version": "1.0.0",
+    "author": "Welpy",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.welpy.techreforged",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

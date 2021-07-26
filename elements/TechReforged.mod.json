@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Tech Reforged",
+    "icon": {
+      "value": "CUSTOM:CrushedIron"
+    },
+    "showSearch": false
+  }
+}
